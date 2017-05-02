@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.4.30)  2 MAY 2017 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.4.30)  2 MAY 2017 17:29
 entering extended mode
 **./tarea3.tex
 (tarea3.tex
@@ -1187,60 +1187,60 @@ LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `tarea3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 22.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 23.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 23.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\fmlfutm.fd"
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 22.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 23.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\fmsfutm.fd"
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 22.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 23.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\fmxfutm.fd"
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 22.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\t1futs.fd"
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
 )
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 \AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1250,9 +1250,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count135
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
 
 (tarea3.out) (tarea3.out)
 \@outlinefile=\write4
@@ -1319,145 +1319,145 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 24
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 25
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\fmlfutmi.fd"
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 24.
+(Font)              scaled to size 11.03998pt on input line 25.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 24.
+(Font)              scaled to size 8.27998pt on input line 25.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 24.
-LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+(Font)              scaled to size 6.43999pt on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 24.
+(Font)              scaled to size 11.03998pt on input line 25.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 24.
+(Font)              scaled to size 8.27998pt on input line 25.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 24.
+(Font)              scaled to size 6.43999pt on input line 25.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 27.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 41.
+(Font)              scaled to size 9.19998pt on input line 42.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 41.
+(Font)              scaled to size 6.99199pt on input line 42.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 41.
+(Font)              scaled to size 5.51999pt on input line 42.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 41.
+(Font)              scaled to size 9.19998pt on input line 42.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 41.
+(Font)              scaled to size 6.99199pt on input line 42.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 41.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 79.
+(Font)              scaled to size 5.51999pt on input line 42.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 80.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 87.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 150.
+(babel)             in language append on input line 151.
  [2]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 153.
+(babel)             in language append on input line 154.
  [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
  (tarea3.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `tarea3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
  18968 strings out of 493328
  344666 string characters out of 3139124
- 428823 words of memory out of 3000000
+ 428817 words of memory out of 3000000
  22129 multiletter control sequences out of 15000+200000
  80594 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1468,7 +1468,7 @@ ec\dpi600\ectt1000.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ms.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on tarea3.pdf (3 pages, 50132 bytes).
+Output written on tarea3.pdf (3 pages, 50105 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
