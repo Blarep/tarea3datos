@@ -69,7 +69,7 @@
 	&\text{Casos posibles}=240/5=48
 	\end{align*}
 	
-	Con esto obtenemos las maneras de colorear sin que estas se repitan 5 veces, pero a esto les debemos sumar los 3 casos que no se repetían 5 veces.
+	Con esto obtenemos las maneras de colorear sin que estas se repitan 5 veces, pero a esto les debemos sumar los 3 casos en los que todos sus vértices tienen el mismo color.
 	
 	Finalmente tenemos:
 	\begin{align*}
@@ -93,14 +93,18 @@
     \end{align*}
     \item Mapee los ordenamientos de \texttt{ME\textsubscript{1}NTE\textsubscript{2}} a \texttt{MENTE}, ¿qué clase de mapa es este?
     
-    \texttt{ME\textsubscript{1}NTE\textsubscript{2}} $\rightarrow$ \texttt{MENTE}    
-   
-    \vspace{-0.2cm}\texttt{ME\textsubscript{2}NTE\textsubscript{1}} 
-    
-    Corresponde a un mapa 2 a 1.
+    $\left .
+    \begin{matrix} 
+         \texttt{ME\textsubscript{1}NTE\textsubscript{2}}\\
+         \texttt{ME\textsubscript{2}NTE\textsubscript{1}}
+    \end{matrix}
+   \right \rangle$
+   $\rightarrow$ \texttt{MENTE}    
+       
+    Corresponde a un mapa 2! a 1.
     \item ¿Qué clase de mapa es el que lleva de \texttt{E\textsubscript{1}FE\textsubscript{2}RVE\textsubscript{3}SCE\textsubscript{4}NTE\textsubscript{5}ME\textsubscript{6}NTE\textsubscript{7}} a  \texttt{EFERVESCENTEMENTE}?
     
-    Es un mapa 7! a 1, ya que las todas las ``E'' con subíndice pasan a ser solo ``E''.
+    Es un mapa 7! a 1, ya que las todas las ``E'' con subíndice, que son 7, pasan a ser solo ``E''.
     
     \item ¿Cuántos ordenamientos de \texttt{E\textsubscript{1}FE\textsubscript{2}RVE\textsubscript{3}SCE\textsubscript{4}N\textsubscript{1}T\textsubscript{1}E\textsubscript{5}ME\textsubscript{6}N\textsubscript{2}T\textsubscript{2}E\textsubscript{7}} hay?
     
@@ -109,6 +113,7 @@
     \text{Maneras de ordenar}=17!= 355687428096000
     \end{align*}
     \item ¿De cuántas maneras se pueden ordenar sus letras si se quiere que comience o termine con la letra \texttt{T}?
+    
     Si dejamos una \texttt{T} fija al principio tenemos:
     \begin{align*}
     \text{Con T fija al principio}=\frac{16!}{7!\cdot 2!}
@@ -117,7 +122,7 @@
     \begin{align*}
     \text{Con T fija al final}=\frac{16!}{7!\cdot 2!}
     \end{align*}
-    Ahora debemos tomar en cuenta que debemos descontar los casos en que empiece y termine con T:
+    Ahora debemos tomar en cuenta que debemos descontar los casos en que empiece y termine con T (intersección de casos anteriores):
     \begin{align*}
     \text{Con T fija al principio y al final}=\frac{15!}{7!\cdot 2!}
     \end{align*}
